@@ -18,7 +18,7 @@ const initialState = [
 const usersSlice = createSlice({
     name: 'users',
     initialState,
-    reducres: {}
+    reducers: {}
 })
 
 export const selectAllUsers = (state) => state.users
