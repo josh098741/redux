@@ -1,5 +1,0 @@
-
-
-function Counter(){
-    return
-}
